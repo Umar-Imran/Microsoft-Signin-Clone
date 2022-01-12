@@ -1,0 +1,30 @@
+.login{
+    margin-top: 5%;
+    margin-left: 34%;
+    margin-right: 34%;
+}
+.grid{
+    padding-left: 8%;
+    padding-top: 10%;
+    padding-right: 5%;
+    padding-bottom: 15%;
+}
+.grid1{
+    padding-left: 8%;
+    padding-top: 3%;
+    padding-bottom: 1%;
+    padding-right: 5%;
+}
+.card{
+    margin-top: 5%;
+}
+.anchor{
+    color: #0067b8;
+    text-decoration: none;
+    font-size: 13px;
+}
+.img1{
+    height: 32px;
+    width: 32px;
+
+}
